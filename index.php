@@ -1,5 +1,5 @@
 <?php
-echo "Ola mundo";
+echo "TESTE ";
 
-echo "Olá Udemy";
+
 phpinfo();
